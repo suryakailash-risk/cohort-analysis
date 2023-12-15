@@ -20,14 +20,16 @@ Create Visualizations: Utilize Plotly and Matplotlib for effective communication
 📈 Visual Highlights:
 
 Trend analysis graphs depict user trends and engagement duration over time.
-Correlation matrix reveals relationships between variables, unlocking additional insights.
+The correlation matrix reveals relationships between variables, unlocking additional insights.
 📆 Weekly Averages: Introduces cohort grouping by week and calculates averages. Visualizations showcase weekly trends in new and returning users, along with engagement duration.
 
 🔑 Conclusion: Cohort Analysis is a game-changer for businesses seeking granular insights. This guide, complete with Python code and visualizations, is your go-to resource for mastering Cohort Analysis.
 
 
 **Cohort Analysis: Case Study**
+
 NOVEMBER 27, 2023
+
 Download the dataset below to solve this Data Science case study on Cohort Analysis.
 
 Cohort Analysis is a method used in analytics and business intelligence to group customers or users into cohorts based on shared characteristics or experiences within a defined time-span. These cohorts are then tracked over time to observe changes in behavior, usage, or other key metrics.
